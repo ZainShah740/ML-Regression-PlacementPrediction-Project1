@@ -23,7 +23,7 @@ I made a Simple Linear Regression model to predict placement packages (LPA) from
 
 ## Setup
 
-1. Clone the repo: git clone https://github.com/yourusername/ML-Regression-PlacementPrediction-Project1.git
+1. Clone the repo: git clone https://github.com/ZainShah740/ML-Regression-PlacementPrediction-Project1.git
 2. Install dependencies: pip install -r requirements.txt
 3. Open CGPA_Package_Prediction.ipynb in Jupyter to run and explore the model.
 
